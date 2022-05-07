@@ -13,6 +13,6 @@ Disable
 defaults delete -g NSWindowShouldDragOnGesture  
 ```
 
-Usage: <kbd>cmd</kbd>+<kbd>ctrl</kbd>+ click
+Usage: <kbd>cmd</kbd> + <kbd>ctrl</kbd> + click
 
 Source: https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/
